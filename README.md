@@ -1,3 +1,6 @@
+# Twitter
+A read-write twitter client that allows users to view and compose tweets using the Twitter API.
+
 # Twitter - Part II
 
 This is a basic twitter app to view, compose, favorite, and retweet tweets.

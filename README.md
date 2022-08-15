@@ -1,5 +1,5 @@
 # Twitter
-A read-write twitter client that allows users to view and compose tweets using the Twitter API.
+A read-write Twitter-Client App that allows users to view and compose tweets using the Twitter API.
 
 # Twitter - Part II
 

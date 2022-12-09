@@ -9,13 +9,13 @@ Time spent: **4** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
 - [x] User can compose a tweet.
 - [x] User can favorite a tweet.
 - [x] User can retweet a tweet.
 
-The following **bonus** features can be implemented:
+The following features can be implemented:
 
 - [ ] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 280)
 - [ ] User can view their profile in a profile tab.
@@ -37,7 +37,7 @@ Time spent: **3** hours spent in total
 
 ## User Stories
 
-The following **required** functionality is completed:
+The following functionality is completed:
 
 - [x] User sees app icon in home screen and styled launch screen.
 - [x] User can log in.
@@ -45,7 +45,7 @@ The following **required** functionality is completed:
 - [x] User stays logged in across restarts.
 - [x] User can view tweets with the user profile picture, username, and tweet text.
 
-The following **bonus** features can be implemented:
+The following features can be implemented:
 
 - [ ] User can pull to refresh.
 - [ ] User can load past tweets infinitely.

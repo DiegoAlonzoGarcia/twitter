@@ -2,8 +2,8 @@
 //  APIManager.swift
 //  Twitter
 //
-//  Created by Diego on 1/3/19.
-//  Copyright © 2019 Dan. All rights reserved.
+//
+//
 //
 
 import UIKit

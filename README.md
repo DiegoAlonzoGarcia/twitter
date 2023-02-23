@@ -14,11 +14,13 @@ The following functionality is completed:
 - [x] User can favorite a tweet.
 - [x] User can retweet a tweet.
 
+<!--
 The following features can be implemented:
 
 - [ ] When composing a tweet, user sees a countdown for the number of characters remaining for the tweet (out of 280)
 - [ ] User can view their profile in a profile tab.
 - [ ] User sees embedded images in tweet if available.
+-->
 
 ## Video Walkthrough
 
@@ -43,10 +45,12 @@ The following functionality is completed:
 - [x] User stays logged in across restarts.
 - [x] User can view tweets with the user profile picture, username, and tweet text.
 
+<!--
 The following features can be implemented:
 
 - [ ] User can pull to refresh.
 - [ ] User can load past tweets infinitely.
+-->
 
 ## Video Walkthrough
 

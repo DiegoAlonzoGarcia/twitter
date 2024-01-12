@@ -8,7 +8,7 @@ This is a basic twitter app to view, compose, favorite, and retweet tweets.
 
 ## User Stories
 
-The following functionality is completed:
+The following functionality is achieved:
 
 - [x] User can compose a tweet.
 - [x] User can favorite a tweet.
@@ -32,12 +32,12 @@ Here's a walkthrough of implemented user stories:
 
 # Twitter - Part I
 
-This is a basic twitter app to read your tweets.
+This is a basic Twitter app to read your tweets.
 
 
 ## User Stories
 
-The following functionality is completed:
+The following functionality is achieved:
 
 - [x] User sees app icon in home screen and styled launch screen.
 - [x] User can log in.

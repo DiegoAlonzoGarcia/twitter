@@ -5,7 +5,7 @@ A read-write Twitter-Client App that allows users to view and compose tweets usi
 
 # Twitter - Part I
 
-This is a basic Twitter app to read your tweets.
+This is a Client-Twitter App to **read** your tweets.
 
 
 ## User Stories
@@ -31,10 +31,11 @@ Here's a walkthrough of implemented user stories:
 
 <img src='http://g.recordit.co/n2LCosobVZ.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
+---
 
 # Twitter - Part II
 
-This is a basic twitter app to view, compose, favorite, and retweet tweets.
+This is a Client-Twitter App to view, **compose**, **favorite**, and **retweet** tweets.
 
 
 ## User Stories
@@ -60,4 +61,3 @@ Here's a walkthrough of implemented user stories:
 <img src='http://g.recordit.co/KnkLvKwFe8.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ---
-

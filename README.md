@@ -14,9 +14,9 @@ The following functionality is achieved:
 
 - [x] User sees app icon in home screen and styled launch screen.
 - [x] User can log in.
-- [x] User can log out.
 - [x] User stays logged in across restarts.
 - [x] User can view tweets with the user profile picture, username, and tweet text.
+- [x] User can log out.
 
 <!--
 The following features can be implemented:
@@ -24,6 +24,7 @@ The following features can be implemented:
 - [ ] User can pull to refresh.
 - [ ] User can load past tweets infinitely.
 -->
+&nbsp
 
 ## Video Walkthrough
 

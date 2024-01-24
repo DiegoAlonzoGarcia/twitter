@@ -25,8 +25,6 @@ The following features can be implemented:
 - [ ] User can load past tweets infinitely.
 -->
 
-&nbsp;
-
 ## Video Walkthrough
 
 Here's a walkthrough of implemented user stories:

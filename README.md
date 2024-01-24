@@ -12,11 +12,11 @@ This is a Client-Twitter App to **read** your tweets.
 
 The following functionality is achieved:
 
-- [x] User sees app icon in home screen and styled launch screen.
-- [x] User can log in.
-- [x] User stays logged in across restarts.
-- [x] User can view tweets with the user profile picture, username, and tweet text.
-- [x] User can log out.
+- [x] User sees app icon in home screen and styled launch screen
+- [x] User can log in
+- [x] User stays logged in across client app restarts
+- [x] User can view tweets with the user profile picture, username, and tweet text
+- [x] User can log out
 
 <!--
 The following features can be implemented:
@@ -24,7 +24,8 @@ The following features can be implemented:
 - [ ] User can pull to refresh.
 - [ ] User can load past tweets infinitely.
 -->
-&nbsp
+
+&nbsp;
 
 ## Video Walkthrough
 
